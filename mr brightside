@@ -1,0 +1,15 @@
+//Make that comment boi
+
+Console.WriteLine("This adds a string then kicks down to the next line like you hit enter");
+
+Console.Write("This adds a string but keeps things on the same line.");
+Console.Write(" ");
+Console.Write("Just like this.");
+
+string firstName;
+firstName = "Bob";
+Console.WriteLine(firstName);
+firstName = "Carol";
+Console.WriteLine(firstName);
+string lastName = "Richards";
+Console.WriteLine(lastName);
